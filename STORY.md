@@ -97,7 +97,14 @@ them a render of their logo. This was eventually used in their announcement,
 [Reddit Post](https://www.reddit.com/r/2b2t/comments/1szh4tl)
 and upcoming YouTube video.
 
+While the 1m² was nearing completion, we contacted SalC1 early to discuss the possibility of a video, and he agreed, 
+despite originally being done with 2b2t. A lot of time and effort went into making this video possible, and he poured
+his heart and soul into making it. Watch the SalC1 video about the topic [here](https://youtu.be/HDyze1YlOrI).
+
 In total, an astonishing 16.081 TB of Overworld data was downloaded. The 1m² download project, alongside Nether gap
 filling, and the End 256k² were all completed between December 25 2025 and April 13 2026, taking only 109 days. We used
 the remaining prio to redownload 100k² to bring spawn up to date, as well as gap filling larger missing spots and then
 extending to 1,074,000², but this extension was not fully finished.
+
+Following the 1m², we searched the data for everything we could possibly think of. You can see all discoveries made
+from the data gathered during this project [here](DISCOVERIES.md).
