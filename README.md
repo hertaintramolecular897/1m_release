@@ -31,7 +31,7 @@ includes all data, as well as the spreadsheets exported from datamining, and all
 may take a few weeks. We ask you to be a little patient with downloading this for yourself, especially since many people
 don't even have this amount of storage available.
 
-In the meantime, you can join the 2b2t.place Discord (https://discord.2b2t.place), which is an extension project
+In the meantime, you can join the 2b2t.place Discord (https://discord.2b2t.place), which is our extension project
 dedicated to archiving as much of 2b2t as possible before it turns into a boring, censored SMP, or if it shuts down.
 We will also be releasing renders, spreadsheets exported from the world download, more visualizations of data, and the
 Torrents in our Discord server, so stay tuned. I will also edit this post to include the links to the Torrents once they
