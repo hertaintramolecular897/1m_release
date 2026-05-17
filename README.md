@@ -10,7 +10,7 @@ This wasn't easy to accomplish in the slightest, and took over a year of constan
 severe weaponized autism, the help of several people involved, thousands of dollars spent, and countless hours wasted,
 we present you the largest world download project ever, on 2b2t, and in Minecraft. Let's break down what exactly
 happened. This has been brought to you by crayne (me), Fuch, mahan, Steve3, and many more. Watch the SalC1 video about 
-the topic [here](PLACEHOLDER).
+the topic [here](https://youtu.be/HDyze1YlOrI).
 
 # TLDR of what happened
 - Fuch and I started a project to download a large area of the server. I created a custom file format to save on storage,
