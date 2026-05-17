@@ -110,7 +110,10 @@ as cool as this.
 - EastAlpha and Philipp, and the other members of the Devs, for coordinating with us on properly timing the releases of 
   the world download, and the their group logo project, also making the final render of the map way more interesting
 - candyking24 and Russianxd, for helping check and filter many locations from the 1m², providing many interesting ideas 
-  for the datamining process, and being supportive in general throughout the project
+  for the datamining process, and being supportive in general throughout the project. Additional thanks to candyking24
+  for having a bot automatically log into 2b2t at Nether spawn every hour throughout January 2026 to add an insane 
+  amount of snapshots to our Wayback Machine service. You can check this for yourself by joining `wayback.2b2t.place`,
+  use `/tp 0 0 nether` and try out the Flashback feature using `/fb`.
 - galicaea and candyking24 for their incredible singing used in the Enclave's Dofnear YouTube video
 - H202 for staying supportive and not leaking the project, even after leaving the group, and for originally bringing up
   the funny idea to rename some of the used accounts after criminals named John.
