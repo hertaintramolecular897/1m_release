@@ -1,12 +1,12 @@
 # The 1,024,000² 2b2t World Download Project (1m²). And More.
-It's finally here. Around 24 TB total of 2b2t world data, which includes:
+It's finally here. Around 24 TB total of 2b2t world data, which includes the following:
 - a 1,024,000² (1m²) area of the Overworld (Dec 25 2025 - Apr 13 2026),
 - a 512,000² (512k²) area of the Overworld (Nov 11 2024 - Dec 12 2024),
 - a 256,000² (256k²) area of the End (Jan 23 2026 - Feb 15 2026),
 - a 100,000² (100k²) area of the Nether (Jun 9 2025 - Jun 14 2025),
 - high-resolution top-down renders of all dimensions with a NewChunks overlay
 
-This wasn't easy to accomplish in the slightest, and took over a year of constant development and stresstesting. With
+This wasn't easy to accomplish in the slightest, and took over a year of constant development and stress testing. With
 severe weaponized autism, the help of several people involved, thousands of dollars spent, and countless hours wasted,
 we present you the largest world download project ever, on 2b2t, and in Minecraft. Let's break down what exactly
 happened. This has been brought to you by crayne (me), Fuch, mahan, Steve3, and many more. Watch the SalC1 video about 
@@ -19,9 +19,9 @@ the topic [here](https://youtu.be/HDyze1YlOrI).
   bases, and covering up the entire thing as a fake larp coord exploit with the Enclave. This was achieved within 17 days.
 - In June of 2025, 2b2t finally updated to 1.21.4, and the nether roof was accidentally left enabled. We decided to use
   this while it was possible, and promptly launched 6 accounts to download a 100k² Nether area, finishing in under a week.
-- Right after Christmas Eve of 2025, we launched a project to download a 1m² Overworld area of the server. We also went
-  and manually gapfilled some missing parts of the Nether. Lastly, we downloaded a 256k² area of the End at the same time.
-  This final project took 109 days to complete, finishing in April of 2026.
+- Right after Christmas Eve of 2025, we launched a new project to download a 1m² Overworld area of the server. We also 
+  went and manually gapfilled some missing parts of the Nether. Lastly, we downloaded a 256k² area of the End at the same
+  time. This final project took 109 days to complete, finishing in April 2026.
 
 You can read the full story about this project [here](STORY.md). See all discoveries made using the data gathered from
 this project [here](DISCOVERIES.md)
@@ -60,7 +60,7 @@ donation amount.
 ### Is this a repost of that 200k² that came out like a day ago?
 This is a separate project with separate goals, that coincidentally happened to release around the same time. I want to
 sincerely apologize to CrisisSheep and pawstar for the incredibly unfortunate timing. Their 200k² world download is a
-big accomplishment and shouldn't be ignored, even if ours is way larger. You can check out their world download and 
+big accomplishment and shouldn't be ignored, even if ours is much larger. You can check out their world download and 
 Torrent in [their Reddit Post](https://reddit.com/r/2b2t_Uncensored/comments/1tefffd) and download it with the
 [Torrent link](https://github.com/pawbase2b2t/2b2t.org-200k-Spawn-Download-2026/raw/refs/heads/main/2b2t%20200k%C2%B2%20Spawn%20Download%20-%202026.torrent)
 
@@ -73,11 +73,11 @@ of all the other ideas we had in mind and never got around to.
 
 Secondly, I want to thank Steve3 and mahan for their huge help providing a separate BMProxy instance just for us
 throughout all the world downloads we have done over the years. A big thanks goes to mahan in particular, for helping me
-extensively stresstest our private software (world download server, proxy, autopilot, zvcr file format), and having to
-deal with porting my (honestly very horrible) autopilot code from the prototype Meteor addon to BMProxy. Along with
-this, he provided a lot of great ideas that were implemented into the 2b2t.place software. Working with mahan has been 
-the most enjoyable experience from all my previous development teamwork ever, and without his and Steve's help, this
-project would have taken atleast another additional year to complete.
+extensively stress test our private software (world download server, proxy, autopilot, zvcr file format), and having to
+port my (honestly very horrible) autopilot code from the prototype Meteor addon to BMProxy. Along with this, he provided
+a lot of great ideas that were implemented into the 2b2t.place software. Working with mahan has been the most enjoyable
+experience from all my previous development teamwork ever, and without his and Steve's help, this project would have
+taken at least another additional year to complete.
 
 A huge thank you to SalC1 for making the YouTube video surrounding this world download project and spending countless
 hours revising the script, editing, and going back and forth with us to make the video as high quality and perfect as
@@ -86,18 +86,18 @@ owner(s) and of course due to Microslop. But given that he has a huge interest i
 still willing to make a video about our project, and I am very, very grateful for that. You can see he poured his heart
 and soul into the video.
 
-I want to thank all members of the Enclave that helped accomplish the initial 512k² project in 2024. Many members
-contributed their alternate Minecraft accounts for use in the project, adding up to 28 accounts in total. Thanks to 
-Fuch, Cody4687 and expunged, a large portion of the priority queue during that project was also funded ($600+). I want 
-to especially thank catgirlmatty for being extremely supportive of this project and creating several videos about it. 
-I want to thank her for also inviting me to the Enclave (given our shared interest in world downloading 2b2t, even if 
-with entirely different motives), and introducing me to Steve3, mahan, expunged, candyking24, Cody4687, WhiteAtlas, 
-and Highatwork. The entire "Dofnear Exploit 2" larp was the funniest shit I've ever been a part of (although it may have
+I want to thank all members of the Enclave that helped with the initial 512k² project in 2024. Many members contributed
+their alternate Minecraft accounts for use in the project, adding up to 28 accounts in total. Thanks to Fuch, Cody4687
+and expunged, a large portion of the priority queue costs during that project was also funded ($600+). I want to
+especially thank catgirlmatty for being extremely supportive of this project and creating several videos about it. I 
+want to thank her also for inviting me to the Enclave (given our shared interest in world downloading 2b2t, even if with
+entirely different motives), and introducing me to Steve3, mahan, expunged, candyking24, Cody4687, WhiteAtlas, and 
+Highatwork. The entire "Dofnear Exploit 2" larp was the funniest shit I've ever been a part of (although it may have 
 slightly deceived the community... I guess this giant wall of text clears things up a little bit). Operation Fact Check
-(OFC) as an organized project fueling Dofnear larp was extremely fun as well, and you can thank expunged and
-catgirlmatty for the success of it; both of them leading the operation, with expunged managing most of the spreadsheet
-work and sending batches of coordinates to fact checkers. An astounding 2100+ locations were manually checked in-game by
-all contributors, giving a final yield of over 600 dubs of stolen items, which is simply absurd.
+(OFC) as an organized project fueling Dofnear larp was extremely fun as well, and you can thank expunged and catgirlmatty
+for the success of it; both of whom led the operation, with expunged managing most of the spreadsheet work and sending 
+batches of coordinates to fact checkers. An astounding 2100+ locations were manually checked in-game by all contributors,
+giving a final yield of over 600 dubs of stolen items, which is simply absurd.
 
 Lastly, a huge thank you to [AustinGraphics](https://austin.is-a-good.dev/), for creating the frontend for the 
 https://2b2t.place website. Thanks to his dedication to this project, we can host the full map of this project for 
@@ -132,11 +132,11 @@ No AI/LLM's were used in the making of this project. Or writing this giant wall 
 
 ## A Final Note
 Although I probably spent the most time working on the code for this project, everyone involved deserves recognition,
-regardless of how much effort they put in. I spent the better part of around ~1.5 years developing most the code used
+because every contribution helped make this possible. I spent the better part of 1.5 years developing most the code used
 for the world download, and this has been extremely exhausting. It would not have been possible to achieve all of this
 if it wasn't for everyone mentioned above. I hope the community can make great use of the data provided by us, whether
-to make the 2b2t experience more enjoyable, or having a backup plan to give the server into the hands of the community,
-just in case the 2b2t server owner(s) decide to make changes noone likes. It'll be interesting to see what the players
+to make the 2b2t experience more enjoyable, or to have a backup plan to give the server into the hands of the community,
+just in case the 2b2t server owner(s) decide to make changes no one likes. It'll be interesting to see what the players
 can come up with.
 
 \- crayne
