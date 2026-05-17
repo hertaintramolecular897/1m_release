@@ -50,6 +50,11 @@ You can support the project by beta testing, helping the moderation team, provid
 simply being part of the community. More large-scale world downloads are yet to come, and they will be posted in our 
 Discord server.
 
+You can also support the 2b2t.place project by donating via our Patreon at https://patreon.com/2b2tplace.
+Your donation helps the 2b2t.place project keep up with ongoing server costs, enabling us to provide large-scale data
+archival to the public. You may choose any of our Tiers, but you will receive the same benefits regardless of your
+donation amount.
+
 ### Is this a repost of that 200k² that came out like a day ago?
 This is a separate project with separate goals, that coincidentally happened to release around the same time. I want to
 sincerely apologize to CrisisSheep and pawstar for the incredibly unfortunate timing. Their 200k² world download is a
