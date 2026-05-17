@@ -26,16 +26,16 @@ the topic [here](PLACEHOLDER).
 You can read the full story about this project [here](STORY.md).
 
 # Where's the Torrent?
-Providing a Torrent for this amount of data is not easy whatsoever. We are currently working on creating a Torrent that 
-includes all data, as well as the spreadsheets exported from datamining, and all the high-resolution renders, but this 
-may take a few weeks. We ask you to be a little patient with downloading this for yourself, especially since many people
-don't even have this amount of storage available.
+Providing a Torrent for this amount of data is not easy whatsoever. We are currently working on creating a Torrent that
+includes all data, but this may take a few weeks. We ask you to be a little patient with downloading this for yourself,
+especially since the majority of people don't even have this amount of storage available. Renders at high resolution and
+spreadsheets exported from the datamining will release separately prior to the Torrent, shortly after this post.
 
 In the meantime, you can join the 2b2t.place Discord (https://discord.2b2t.place), which is our extension project
 dedicated to archiving as much of 2b2t as possible before it turns into a boring, censored SMP, or if it shuts down.
 We will also be releasing renders, spreadsheets exported from the world download, more visualizations of data, and the
-Torrents in our Discord server, so stay tuned. I will also edit this post to include the links to the Torrents once they
-are public.
+Torrent in our Discord server, so stay tuned. I will also edit this post to include the links to the Torrent once it's
+public.
 
 We also offer free services such as the 2b2t Wayback Machine (Server IP: `wayback.2b2t.place`) and a
 [Map Website Viewer](https://2b2t.place) (https://2b2t.place). You can use these services right now to view the data for
@@ -49,6 +49,13 @@ the zvcr file format, and much, much more. You can check out our GitHub here at 
 You can support the project by beta testing, helping the moderation team, providing data, making cool software, or 
 simply being part of the community. More large-scale world downloads are yet to come, and they will be posted in our 
 Discord server.
+
+### Is this a repost of that 200k² that came out like a day ago?
+This is a separate project with separate goals, that coincidentally happened to release around the same time. I want to
+sincerely apologize to CrisisSheep and pawstar for the incredibly unfortunate timing. Their 200k² world download is a
+big accomplishment and shouldn't be ignored, even if ours is way larger. You can check out their world download and 
+Torrent in [their Reddit Post](https://reddit.com/r/2b2t_Uncensored/comments/1tefffd) and download it with the
+[Torrent link](https://github.com/pawbase2b2t/2b2t.org-200k-Spawn-Download-2026/raw/refs/heads/main/2b2t%20200k%C2%B2%20Spawn%20Download%20-%202026.torrent)
 
 # Discoveries
 Many interesting things were found in this download, and many were unfortunately not found.
