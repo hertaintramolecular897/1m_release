@@ -59,6 +59,23 @@ Your donation helps the 2b2t.place project keep up with ongoing server costs, en
 archival to the public. You may choose any of our Tiers, but you will receive the same benefits regardless of your
 donation amount.
 
+# Why is the Torrent taking so long ("a few weeks")?
+During the project I have made terrible decisions with some of the backend software, which we now have to deal with as inevitable technical debt.
+Due to this, there is an ongoing effort to reimport all of the missing tile entities so they actually appear in the ingame wayback server, but such that they are also reflected in the region files themselves. This will take approximately 4-5 more days to complete.
+
+In the meantime, there is an additional effort to upgrade the entire 2024 512k² to the latest Minecraft version (1.20.4 -> 1.21.4), fixing the exact same issues with tile entities, and then importing the entire 2024 world download into the main archive, as a separate snapshot in time. This may also take a few extra days.
+
+There is a lot of behind the scenes work going on, and we ask you to remain patient while we resolve these issues.
+
+The final Torrent will likely be released as a Squashfs container, including the 2026 1m² Overworld, 2024 512k² Overworld, 2026 256k² End, and 2025 100k² Nether, as organized zvcr files in a single archive.
+
+# Why is the software release taking so long?
+A huge chunk of the software does not support tile entities yet. This includes the region file merging, exporting, importing and other miscellaneous code that would be necessary for a usable archive. I've been working on this project in parallel with studying for exams at university, which further delays the efforts to get this out quick.
+
+Nonetheless, most of the software is feature-complete, and adding tile entity support should be doable relatively quickly, once I get a short rest from studying. This software will likely be released to the public around the same time as the Torrent.
+
+Please be patient.
+
 ### Is this a repost of that 200k² that came out like a day ago?
 This is a separate project with separate goals, that coincidentally happened to release around the same time. I want to
 sincerely apologize to CrisisSheep and pawstar for the incredibly unfortunate timing. Their 200k² world download is a
